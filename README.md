@@ -1,13 +1,11 @@
 # Bicycle-Model-Simulation-on-Turtlesim
 ## Description
-It's a Package containing more than one project to control a turtle in turtlesim simulator 
+It's a Package containing more than one project to control a turtle in turtlesim simulator.
 Here the focus is on the Bicycle Model Simulation project.
-I've derived the kinematics of the Bicycle Model equations in both cases: forward and backward steering and simulated the results in turtlesim.
-The user can input the velocity, the time of simulation, and the steering angle and can see the result of these numbers.
 
-**Bicycle_Model_Turtlesim.py*
+**Bicycle_Model_Turtlesim.py**
 > I've derived the kinematics of the Bicycle Model equations in both cases: forward and backward steering and simulated the results in turtlesim.
-The user can input the velocity, the time of simulation, and the steering angle and can see the result of these numbers.
+The user can input the velocity, the time of simulation, and the steering angle and also choose front steering or back steering and thus can see the result of these numbers.
 
 ## How to install and work with project 
 - You should be familiar with Ubuntu and ROS.
