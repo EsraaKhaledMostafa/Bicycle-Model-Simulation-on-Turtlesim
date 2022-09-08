@@ -50,7 +50,7 @@ def Simulate_Bicycle_Model(v, lr, lf, Delta, SteeringControl):
 
 if __name__ == "__main__":
 
-        rospy.init_node("GBicycle_Model_Simulator")
+        rospy.init_node("Bicycle_Model_Simulator")
         pub = rospy.Publisher("/turtle1/cmd_vel", Twist, queue_size =10)
         sub = rospy.Subscriber("/turtle1/pose", Pose, callback = pose_callback)
         
