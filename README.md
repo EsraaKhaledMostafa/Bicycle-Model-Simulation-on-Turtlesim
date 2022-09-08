@@ -12,7 +12,7 @@ The user can input the velocity, the time of simulation, and the steering angle 
 - You can download the full package and put it in your workspace.
 - You should then open the terminal and go to the directory scripts inside the package where you will find the python file of this project named: "Bicycle_Model_Turtlesim.py".
 
-- **Hint** For Bicycle_Model_Turtlesim you could run it with roslaunch command since I've made a launch file that runs turtlesim,the code file and the parameter file. You can find it in launch folder named: "Bicycle_Model.launch". Also the length from the center of the bicycle to both the front wheel and rear wheel are given in a yaml file and sent as parameters in the code such that you can easily change there values from the yaml file.
+- **Hint** For Bicycle_Model_Turtlesim you could run it with roslaunch command since I've made a launch file that runs turtlesim,the code file and the parameter file. You can find it in launch folder named: "Bicycle_Model.launch". Also the length from the center of the bicycle to both the front wheel and rear wheel are given in a yaml file and sent as parameters in the code such that you can easily change there values from the yaml file: "Bicycle_Params.yaml" from the Config folder.
 
 ## See Working Project
 [View video](https://drive.google.com/file/d/14UHkzB7qtApBZEqQPe7GyxESPiZOJW6C/view?usp=sharing)
